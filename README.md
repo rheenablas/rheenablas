@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rheenablas
 - 👀 I’m interested in learning more about anything CS related
-- 🌱 I’m currently learning Computer Science in University College Cork
+- 🌱 I’m currently studying Computer Science in University College Cork
 - 📫 How to reach me: rheenablas[at]gmail[dot]com
 
 <!---
